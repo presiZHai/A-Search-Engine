@@ -18,8 +18,8 @@
    * Vector embeddings
    * Word2Vec and other approaches for word embeddings
    * LSA (Latent Semantic Analysis) for document embeddings
-* Implementing vector search with LSA
-* BERT embeddings
+   * Implementing vector search with LSA
+   * BERT embeddings
 
 5. Combining Text and Vector Search (5 minutes)
 
