@@ -1,7 +1,7 @@
 # Build A Search Engine
 
 
-## Workshop Outline
+## Outline
 
 1. Preparing the Environment
    
